@@ -1,8 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import registerServiceWorker from './registerServiceWorker';
+import React from "react";
+import ReactDom from 'react-dom';
 
-ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();
+const element = <h1>Hello Word</h1>;
+console.log('​element', element);
+
