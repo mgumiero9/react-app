@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv": "^6.5.3",
+    "eslint": "^5.4.0",
+    "eslint-config-google": "^0.9.1",
+    "eslint-config-react-app": "^2.1.0",
+    "eslint-loader": "^2.1.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5"
